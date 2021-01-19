@@ -1,0 +1,21 @@
+{
+    "name": "rfxtheme",
+    "displayName": "RFXTheme",
+    "description": "Dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "RFXTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/RFXTheme-color-theme.json"
+            }
+        ]
+    }
+}
