@@ -1,12 +1,7 @@
 {
 	"name": "RFXTheme",
 	"type": "dark",
-	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
-	},
+	"include": "./colors.json",
 	"tokenColors": [
 		{
 			"name": "Comment",
