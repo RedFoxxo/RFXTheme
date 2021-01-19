@@ -1,8 +1,8 @@
 {
     "name": "rfxtheme",
     "displayName": "RFXTheme",
-    "description": "Dark theme",
-    "version": "0.0.1",
+    "description": "Black and orange theme",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.52.0"
     },
