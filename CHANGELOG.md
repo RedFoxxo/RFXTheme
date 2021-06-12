@@ -1,3 +1,8 @@
+## [1.1.1]
+- improve scrollbar color
+- settings headers from orange to white
+- improve suggestions highlight color
+
 ## [1.1.0]
 - change some editor colors (now more vs-like)
 - code cleanup
