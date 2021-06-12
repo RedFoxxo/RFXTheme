@@ -1,6 +1,7 @@
 ## [1.1.1]
 - improve scrollbar color
-- settings headers from orange to white
+- change settings headers from orange to white
+- change sidebar border from white to orange
 - improve suggestions highlight color
 
 ## [1.1.0]
